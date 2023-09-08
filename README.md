@@ -1,8 +1,8 @@
 # Aircon Retailer Management System
 
 Balancing employee workloads is a complex task, vital for maintaining
-a productive and healthy workplace environment. Our Team is working 
-on a management system for an Aircon retailer. This project aims to 
+a productive and healthy workplace environment. Our team is working 
+on a management system for an Aircon Retailer. This project aims to 
 create a system that can optimise the job allocation for employees.
 
 ## Project Team
